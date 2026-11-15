@@ -83,3 +83,4 @@ def test_projection_distance_attenuation():
     far_flux = np.sum(intensities[1])
 
     assert close_flux > far_flux * 3.0, "Closer partner must produce significantly higher excitation"
+

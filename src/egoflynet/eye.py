@@ -140,3 +140,4 @@ def create_hexagonal_eye_lattice(
         elevation=elevation,
         acceptance_angle_rad=acceptance_rad,
     )
+

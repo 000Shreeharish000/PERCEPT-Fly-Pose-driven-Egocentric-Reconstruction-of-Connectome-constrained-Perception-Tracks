@@ -66,3 +66,4 @@ For each sample point $i$ on the partner fly with egocentric vector $\mathbf{p}_
 - **Acceptance Uniformity:** Biological ommatidia exhibit non-uniform spatial resolution (fovea-like high acuity in the anterior-dorsal region); here, acceptance angles and spacing are approximated as piecewise uniform.
 - **Occlusion:** Complex self-occlusion (e.g. wings occluding the abdomen from certain vantage points) is approximated via volumetric point sampling without full ray-traced mesh shadow testing.
 - **Scientific Claim:** This software reconstructs modeled visual excitation for computational analysis and connectome simulation. It is **not** a direct empirical electrophysiological measurement or proof of conscious perception.
+

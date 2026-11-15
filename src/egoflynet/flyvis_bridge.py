@@ -90,3 +90,4 @@ def simulate_connectome_vision(
             results[ct] = np.zeros((intensities.shape[0], 1), dtype=np.float32)
 
     return results
+

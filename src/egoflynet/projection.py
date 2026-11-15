@@ -135,3 +135,4 @@ def project_partner_onto_eyes(
         intensities[fr] = frame_resp.astype(np.float32)
 
     return intensities
+

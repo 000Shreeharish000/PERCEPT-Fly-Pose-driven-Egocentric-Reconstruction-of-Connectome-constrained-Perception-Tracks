@@ -198,3 +198,4 @@ def render_animation(
             loop=0,
             optimize=True,
         )
+

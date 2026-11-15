@@ -64,3 +64,4 @@ def test_csv_save_and_load(tmp_path: Path):
     assert loaded_pose.n_keypoints == 5
     assert loaded_pose.is_3d
     assert np.allclose(orig_pose.tracks, loaded_pose.tracks, atol=1e-3)
+

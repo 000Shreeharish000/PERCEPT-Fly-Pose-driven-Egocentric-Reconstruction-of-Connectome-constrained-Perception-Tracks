@@ -313,3 +313,4 @@ def load_sleap_h5(path: Path | str, fps: float = 60.0) -> PoseData:
             raise ValueError(f"Unexpected SLEAP tracks rank: {raw_tracks.ndim}")
 
     return PoseData(tracks=tracks, keypoint_names=node_names, fps=fps)
+

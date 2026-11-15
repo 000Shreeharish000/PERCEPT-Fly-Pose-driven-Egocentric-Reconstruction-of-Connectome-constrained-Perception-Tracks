@@ -25,3 +25,4 @@ def test_lattice_geometry():
     # 4. Check elevation limits
     assert np.all(lattice.elevation >= -np.pi / 2.0)
     assert np.all(lattice.elevation <= np.pi / 2.0)
+

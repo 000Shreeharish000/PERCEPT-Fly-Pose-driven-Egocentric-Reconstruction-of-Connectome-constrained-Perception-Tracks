@@ -118,3 +118,4 @@ def generate_courtship_trajectory(
         fps=fps,
         timestamps=t,
     )
+

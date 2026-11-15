@@ -22,3 +22,4 @@ __all__ = [
     "is_flyvis_available",
     "simulate_connectome_vision",
 ]
+

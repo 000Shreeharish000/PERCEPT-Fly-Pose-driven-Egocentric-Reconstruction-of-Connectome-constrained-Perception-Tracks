@@ -48,3 +48,4 @@ def test_body_frame_forward_y():
     assert np.allclose(frame.up[0], [0.0, 0.0, 1.0], atol=1e-5)
     # Yaw should be pi/2
     assert np.isclose(frame.yaw[0], np.pi / 2.0, atol=1e-5)
+

@@ -41,3 +41,4 @@ def test_flyvis_bridge_guard():
     else:
         # If installed, run light verification
         pass
+
