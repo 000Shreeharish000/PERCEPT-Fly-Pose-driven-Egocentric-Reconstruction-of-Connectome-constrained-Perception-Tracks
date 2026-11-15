@@ -1,0 +1,20 @@
+{
+  "n_frames": 60,
+  "n_flies": 2,
+  "keypoints": [
+    "head",
+    "thorax",
+    "abdomen_tip",
+    "wing_left",
+    "wing_right"
+  ],
+  "n_ommatidia": 720,
+  "peak_intensity": 2.364980936050415,
+  "mean_intensity": 0.017596475780010223,
+  "fps": 60.0,
+  "artifacts": [
+    "ommatidia_intensities.npy",
+    "reconstruction_preview.png",
+    "reconstruction.gif"
+  ]
+}
